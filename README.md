@@ -1,2 +1,3 @@
 # correio-client
-Client de acesso ao WS dos correios para calculo de preço
+
+	Client de acesso ao WebService SOAP dos Correios para calculo de preço
